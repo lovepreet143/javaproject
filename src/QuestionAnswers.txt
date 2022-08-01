@@ -1,0 +1,10 @@
+1. What is inheritance in java ? ### Ans. A relationship between two classes in which one class (the subclass) inherits all the properties and capabilities of another class (super class). ###
+2. What is an interface ? ### Ans. It is a concept of OOPs that allows you to declare methods without defining them. ###
+3. What is polymorphism ? ### Ans. Polymorphism refers to the ability to exist in multiple forms. For example, if you have a class named Vehicle, it can have a method named speed but you cannot define it because different vehicles have different speed. This method will be defined in the subclasses with different definitions for different vehicles. ###
+4. What is method overloading ? ### Ans. Method overloading is a feature of OOPs which makes it possible to give the same name to more than one methods within a class if the arguments passed differ. ###
+5. What is method overriding ? ### Ans. Method overriding is a feature of OOPs by which the child class or the subclass can redefine methods present in the base class or parent class. ###
+6. What is an abstract class ? ### Ans. An abstract class is a class that consists of abstract methods. These methods are basically declared but not defined. If these methods are to be used in some subclass, they need to be exclusively defined in the subclass. ###
+7. What is a constructor ? ### Ans. A constructor is a special type of method that has the same name as the class and is used to initialize objects of that class. ###
+8. What is Garbage Collection ? ### Ans. Garbage collection is an implementation of automatic memory management. The garbage collector frees up space occupied by objects that are no longer in existence. ###
+9. What is an exception ? ### Ans. An exception is a kind of notification that interrupts the normal execution of a program. ###
+10. What is a final variable ? ### Ans. A final variable is a variable whose value does not change.
